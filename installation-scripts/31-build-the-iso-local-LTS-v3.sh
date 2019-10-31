@@ -20,8 +20,8 @@ outFolder="$HOME/ArcoLinuxB-Out"
 #Setting variables
 #Let us change the name"
 #First letter of desktop small
-desktop="bspwm-min"
-calamaresdesktopname="bspwm"
+desktop="xtended"
+calamaresdesktopname="xtended"
 
 #build.sh
 oldname1="iso_name=arcolinux"
