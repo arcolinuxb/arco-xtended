@@ -677,3 +677,7 @@ xtitle-git
 
 #desktop specific i3
 i3-gaps
+
+#desktop specific awesome
+awesome
+vicious
