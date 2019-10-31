@@ -366,7 +366,7 @@ lsb-release
 mlocate
 #nomacs
 p7zip
-#plank
+plank
 playerctl
 polkit
 polkit-gnome
@@ -380,7 +380,7 @@ qt5-webkit
 #powertop
 reflector
 #redshift
-rofi
+#rofi
 rxvt-unicode
 #simple-scan
 #shotwell
@@ -498,14 +498,14 @@ yay-bin
 #arcolinux_repo for arcolinux
 #arcolinux-arc-themes-git
 arcolinux-arc-themes-nico-git
-#arcolinux-awesome-git
+arcolinux-awesome-git
 arcolinux-bin-git
 arcolinux-bspwm-git
 #arcolinux-budgie-git
 #arcolinux-cinnamon-git
 #arcolinux-common-git
 #arcolinux-config-awesome-git
-arcolinux-config-bspwm-git
+#arcolinux-config-bspwm-git
 #arcolinux-config-budgie-git
 #arcolinux-config-cinnamon-git
 #arcolinux-config-deepin-git
@@ -523,17 +523,18 @@ arcolinux-config-bspwm-git
 #arcolinux-config-qtile
 #arcolinux-config-xfce-git
 #arcolinux-config-xmonad-git
+#TO BE CREATED arcolinux-config-xtended-git
 arcolinux-conky-collection-git
 #arcolinux-deepin-git
 #arcolinux-docs-git
 #arcolinux-faces-git
 arcolinux-fonts-git
-arcolinux-geany-git
+#arcolinux-geany-git
 #arcolinux-gnome-git
 arcolinux-grub-theme-vimix-git
 arcolinux-hblock-git
-#arcolinux-herbstluftwm-git
-#arcolinux-i3wm-git
+arcolinux-herbstluftwm-git
+arcolinux-i3wm-git
 arcolinux-keyring
 arcolinux-kvantum-git
 #arcolinux-kvantum-lxqt-git
@@ -543,7 +544,7 @@ arcolinux-lightdm-gtk-greeter
 arcolinux-lightdm-gtk-greeter-settings
 arcolinux-local-applications-git
 #arcolinux-local-repo-git
-arcolinux-local-xfce4-git
+#arcolinux-local-xfce4-git
 #arcolinux-logo-git
 #arcolinux-lxqt-git
 #arcolinux-lxqt-applications-add-git
@@ -552,27 +553,28 @@ arcolinux-mirrorlist-git
 #arcolinux-mate-git
 arcolinux-neofetch-git
 arcolinux-nitrogen-git
-#arcolinux-oblogout
+arcolinux-oblogout
 #arcolinux-oblogout-awesome
-arcolinux-oblogout-bspwm
+#arcolinux-oblogout-bspwm
 #arcolinux-oblogout-herbstluftwm
 #arcolinux-oblogout-qtile
 arcolinux-oblogout-themes-git
 #arcolinux-oblogout-xmonad
 #arcolinux-obmenu-generator-git
 #arcolinux-obmenu-generator-minimal-git
-#arcolinux-openbox-git
-#arcolinux-openbox-themes-git
+#TO BE CREATED = arcolinux-obmenu-generator-xtended-git
+arcolinux-openbox-git
+arcolinux-openbox-themes-git
 arcolinux-pipemenus-git
-#arcolinux-plank-git
-#arcolinux-plank-themes-git
+arcolinux-plank-git
+arcolinux-plank-themes-git
 #arcolinux-plasma-git
 arcolinux-polybar-git
 arcolinux-qt5-git
 #arcolinux-qt5-plasma-git
-#arcolinux-qtile-git
-arcolinux-rofi-git
-arcolinux-rofi-themes-git
+arcolinux-qtile-git
+#arcolinux-rofi-git
+#arcolinux-rofi-themes-git
 arcolinux-root-git
 arcolinux-slim
 arcolinux-slimlock-themes-git
@@ -586,7 +588,7 @@ arcolinux-wallpapers-git
 #arcolinux-xfce4-panel-profiles-git
 arcolinux-xfce-git
 #arcolinux-xmobar-git
-#arcolinux-xmonad-polybar-git
+arcolinux-xmonad-polybar-git
 #arcolinux-xmonad-xmobar-git
 
 #xfce4 also for ArcoLinuxB iso builds
@@ -610,7 +612,7 @@ xfwm4
 #mousepad
 #orage
 #parole
-ristretto
+#ristretto
 #xfburn
 #xfce4-artwork
 #xfce4-battery-plugin
@@ -648,7 +650,7 @@ xfce4-taskmanager
 #Needed for Calamares installer
 calamares
 arcolinux-system-installation-git
-arcolinuxb-calamares-bspwm-git
+#TO BE CREATED arcolinuxb-calamares-xtended-git
 ckbcomp
 upower
 kcoreaddons
