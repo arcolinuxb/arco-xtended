@@ -252,7 +252,7 @@ feh
 firefox
 #flashplugin
 galculator
-#geany
+geany
 #gimp
 gmrun
 #gsimplecal
@@ -523,13 +523,13 @@ arcolinux-common-git
 #arcolinux-config-qtile
 #arcolinux-config-xfce-git
 #arcolinux-config-xmonad-git
-#TO BE CREATED arcolinux-config-xtended-git
+arcolinux-config-xtended-git
 arcolinux-conky-collection-git
 #arcolinux-deepin-git
 #arcolinux-docs-git
 #arcolinux-faces-git
 arcolinux-fonts-git
-#arcolinux-geany-git
+arcolinux-geany-git
 #arcolinux-gnome-git
 arcolinux-grub-theme-vimix-git
 arcolinux-hblock-git
@@ -563,7 +563,8 @@ arcolinux-oblogout-themes-git
 #arcolinux-obmenu-generator-git
 arcolinux-obmenu-generator-minimal-git
 #TO BE CREATED = arcolinux-obmenu-generator-xtended-git
-arcolinux-openbox-git
+#arcolinux-openbox-git
+arcolinux-openbox-xtended-git
 arcolinux-openbox-themes-git
 arcolinux-pipemenus-git
 arcolinux-plank-git
