@@ -688,3 +688,10 @@ herbstluftwm
 #desktop specific qtile
 qtile
 python-psutil
+
+#desktop specific xmonad
+xmonad
+xmonad-contrib
+xmonad-utils
+haskell-dbus
+xmonad-log
