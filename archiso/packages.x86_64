@@ -544,7 +544,7 @@ arcolinux-lightdm-gtk-greeter
 arcolinux-lightdm-gtk-greeter-settings
 arcolinux-local-applications-git
 #arcolinux-local-repo-git
-#arcolinux-local-xfce4-git
+arcolinux-local-xfce4-git
 #arcolinux-logo-git
 #arcolinux-lxqt-git
 #arcolinux-lxqt-applications-add-git
