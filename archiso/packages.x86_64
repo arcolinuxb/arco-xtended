@@ -561,7 +561,7 @@ arcolinux-oblogout
 arcolinux-oblogout-themes-git
 #arcolinux-oblogout-xmonad
 #arcolinux-obmenu-generator-git
-#arcolinux-obmenu-generator-minimal-git
+arcolinux-obmenu-generator-minimal-git
 #TO BE CREATED = arcolinux-obmenu-generator-xtended-git
 arcolinux-openbox-git
 arcolinux-openbox-themes-git
@@ -650,7 +650,7 @@ xfce4-taskmanager
 #Needed for Calamares installer
 calamares
 arcolinux-system-installation-git
-#TO BE CREATED arcolinuxb-calamares-xtended-git
+arcolinuxb-calamares-xtended-git
 ckbcomp
 upower
 kcoreaddons
