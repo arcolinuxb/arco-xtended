@@ -295,7 +295,7 @@ ttf-roboto
 
 #i3wm
 i3status
-i3blocks
+#i3blocks
 
 #icons
 #arc-icon-theme
@@ -666,7 +666,7 @@ plasma-framework
 hwinfo
 qt5-xmlpatterns
 
-#desktop specific
+#desktop specific bspwm
 bspwm
 sxhkd
 polybar
@@ -674,3 +674,6 @@ xdo
 xdotool
 sutils-git
 xtitle-git
+
+#desktop specific i3
+i3-gaps
