@@ -221,7 +221,7 @@ splix
 system-config-printer
 
 #printer extra for hplip
-pyqt5-common
+#pyqt5-common
 #python-pillow
 #python-pip
 #python-pyqt5
@@ -681,3 +681,10 @@ i3-gaps
 #desktop specific awesome
 awesome
 vicious
+
+#desktop specific herbstluftwm
+herbstluftwm
+
+#desktop specific qtile
+qtile
+python-psutil
