@@ -561,8 +561,8 @@ arcolinux-oblogout
 arcolinux-oblogout-themes-git
 #arcolinux-oblogout-xmonad
 #arcolinux-obmenu-generator-git
-arcolinux-obmenu-generator-minimal-git
-#TO BE CREATED = arcolinux-obmenu-generator-xtended-git
+#arcolinux-obmenu-generator-minimal-git
+arcolinux-obmenu-generator-xtended-git
 #arcolinux-openbox-git
 arcolinux-openbox-xtended-git
 arcolinux-openbox-themes-git
