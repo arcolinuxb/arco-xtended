@@ -1,8 +1,8 @@
-# ArcoLinux BYOI Bspwm Minimal desktop
+# ArcoLinux BYOI Xtended
 
 # Get your code to build your own iso
 
-	git clone https://github.com/arcolinuxb/arco-bspwm-minimal
+	git clone https://github.com/arcolinuxb/arco-xtended
 
 # Follow installation tutorials on
 
