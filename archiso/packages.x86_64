@@ -503,7 +503,7 @@ arcolinux-bin-git
 arcolinux-bspwm-git
 #arcolinux-budgie-git
 #arcolinux-cinnamon-git
-#arcolinux-common-git
+arcolinux-common-git
 #arcolinux-config-awesome-git
 #arcolinux-config-bspwm-git
 #arcolinux-config-budgie-git
