@@ -316,7 +316,7 @@ lxappearance
 
 #openbox
 gtk2-perl
-#obconf
+obconf
 openbox
 gtk-engine-murrine
 
