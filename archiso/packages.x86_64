@@ -706,3 +706,6 @@ xmonad-log
 
 #polybar
 polybar
+
+#discord support
+qt5-webengine
