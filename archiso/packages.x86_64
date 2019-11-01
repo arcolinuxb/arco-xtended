@@ -675,7 +675,6 @@ vicious
 #desktop specific bspwm
 bspwm
 sxhkd
-polybar
 xdo
 xdotool
 sutils-git
@@ -704,3 +703,6 @@ xmonad-contrib
 xmonad-utils
 haskell-dbus
 xmonad-log
+
+#polybar
+polybar
