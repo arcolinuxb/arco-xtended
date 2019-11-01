@@ -315,10 +315,10 @@ lxappearance
 #lxrandr
 
 #openbox
-gtk2-perl
-obconf
-openbox
-gtk-engine-murrine
+#gtk2-perl
+#obconf
+#openbox
+#gtk-engine-murrine
 
 #themes
 #adapta-gtk-theme
@@ -667,6 +667,11 @@ plasma-framework
 hwinfo
 qt5-xmlpatterns
 
+
+#desktop specific awesome
+awesome
+vicious
+
 #desktop specific bspwm
 bspwm
 sxhkd
@@ -676,16 +681,18 @@ xdotool
 sutils-git
 xtitle-git
 
+#desktop specific herbstluftwm
+herbstluftwm
+
 #desktop specific i3
 i3-gaps
 i3status
 
-#desktop specific awesome
-awesome
-vicious
-
-#desktop specific herbstluftwm
-herbstluftwm
+#desktop specific openbox
+gtk2-perl
+obconf
+openbox
+gtk-engine-murrine
 
 #desktop specific qtile
 qtile
