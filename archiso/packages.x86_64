@@ -294,7 +294,7 @@ ttf-roboto
 #ttf-ubuntu-font-family
 
 #i3wm
-i3status
+#i3status
 #i3blocks
 
 #icons
@@ -678,6 +678,7 @@ xtitle-git
 
 #desktop specific i3
 i3-gaps
+i3status
 
 #desktop specific awesome
 awesome
