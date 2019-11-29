@@ -389,6 +389,7 @@ webkit2gtk
 wmctrl
 xapps
 #xcape
+xdotool
 xdg-desktop-portal-gtk
 #youtube-dl
 zenity
@@ -759,7 +760,6 @@ vicious
 bspwm
 sxhkd
 xdo
-xdotool
 sutils-git
 xtitle-git
 
