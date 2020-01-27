@@ -490,8 +490,8 @@ arcolinux-oblogout-themes-git
 arcolinux-obmenu-generator-xtended-git
 arcolinux-openbox-themes-git
 arcolinux-pipemenus-git
-arcolinux-plank-git
-arcolinux-plank-themes-git
+#arcolinux-plank-git
+#arcolinux-plank-themes-git
 arcolinux-polybar-git
 arcolinux-qt5-git
 #arcolinux-qt5-plasma-git
@@ -716,7 +716,7 @@ lxappearance
 ### xfce4 group content
 # https://www.archlinux.org/groups/x86_64/xfce4/
 exo
-garcon
+#garcon
 thunar
 thunar-volman
 tumbler
@@ -778,6 +778,9 @@ xfce4-taskmanager
 #                                ISO SPECIFIC
 ###########################################################################
 
+#polybar
+polybar
+
 #desktop specific awesome
 awesome
 vicious
@@ -811,9 +814,10 @@ xmonad-contrib
 xmonad-utils
 haskell-dbus
 xmonad-log
-
-#polybar
-polybar
+checkupdates-aur
+perl-checkupdates-aur
+xmobar
+xdo
 
 #discord support
 qt5-webchannel
