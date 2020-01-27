@@ -197,10 +197,6 @@ gvfs-mtp
 gvfs-nfs
 gvfs-smb
 mtpfs
-thunar
-thunar-archive-plugin
-thunar-media-tags-plugin
-thunar-volman
 udiskie
 udisks2
 xdg-user-dirs
@@ -235,7 +231,6 @@ poppler-qt5
 ###applications
 #atom
 #chromium
-picom
 #darktable
 #deadbeef
 dmenu
@@ -243,7 +238,7 @@ dmenu
 feh
 firefox
 #flashplugin
-galculator
+#galculator
 geany
 #gimp
 gmrun
@@ -252,7 +247,7 @@ gmrun
 imagemagick
 #inkscape
 #libreoffice-fresh
-#lshw
+lshw
 meld
 nitrogen
 numlockx
@@ -261,9 +256,8 @@ numlockx
 scrot
 #simplescreenrecorder
 termite
-#tint2
 variety
-vlc
+#vlc
 
 ###conky
 jq
@@ -273,7 +267,7 @@ jq
 #xcursor-simpleandsoft
 
 ###fonts
-adobe-source-sans-pro-fonts
+#adobe-source-sans-pro-fonts
 awesome-terminal-fonts
 noto-fonts
 #terminus-font
@@ -291,17 +285,6 @@ ttf-roboto
 #gnome-icon-theme
 #papirus-icon-theme
 
-###lightdm
-accountsservice
-lightdm
-
-###lx-applications
-lxappearance
-#lxappearance-gtk3
-#lxappearance-obconf
-#lxappearance-obconf-gtk3
-#lxrandr
-
 ###themes
 #adapta-gtk-theme
 arc-gtk-theme
@@ -310,13 +293,13 @@ kvantum-theme-arc
 
 ###utilities
 arandr
-#asciinema
+asciinema
 bash-completion
 #baobab
 #catfish
 cronie
 dconf-editor
-#dmidecode
+dmidecode
 #evince
 expac
 file-roller
@@ -332,7 +315,7 @@ gnome-keyring
 gparted
 #gpick
 #gtop
-#hardinfo
+hardinfo
 #hddtemp
 htop
 #hunspell
@@ -350,7 +333,7 @@ mlocate
 #nomacs
 oh-my-zsh-git
 p7zip
-plank
+#plank
 playerctl
 polkit
 polkit-gnome
@@ -364,11 +347,11 @@ qt5-webkit
 #powertop
 reflector
 #redshift
-#rofi
+rofi
 rxvt-unicode
 #simple-scan
 #shotwell
-#speedtest-cli
+speedtest-cli
 #timeshift
 #tlp
 tree
@@ -382,7 +365,6 @@ w3m
 webkit2gtk
 wmctrl
 xapps
-#xcape
 xdo
 xdotool
 xdg-desktop-portal-gtk
@@ -393,7 +375,7 @@ zsh-completions
 zsh-syntax-highlighting
 
 ###########################################################################
-#                           ARCOLINUX_REPO_ISO
+#                           ARCOLINUX_REPOS
 ###########################################################################
 
 ###applications
@@ -404,12 +386,12 @@ zsh-syntax-highlighting
 #breeze-cursors-lh
 #breeze-obsidian-cursor-theme
 #oxy-neon
-xcursor-breeze
+breeze
 #xcursor-vanilla-dmz-aa
 
 ###fonts
 ttf-font-awesome
-#ttf-ms-fonts
+ttf-ms-fonts
 
 ###icons
 #faba-icon-theme
@@ -440,20 +422,18 @@ downgrade
 grub-customizer
 hardcode-fixer-git
 inxi
-#menulibre
 mintstick-git
-#mugshot
 neofetch
 #numix-gtk-theme-git
 pamac-aur
 #peek
 #pulseaudio-equalizer-ladspa
 python-pyparted
-python-pywal
+#python-pywal
 #screenkey-git
 sublime-text-dev
 the_platinum_searcher-bin
-#tmux
+tmux
 trizen
 urxvt-perls
 urxvt-resize-font-git
@@ -466,8 +446,7 @@ yay-bin
 #                               GAMES
 ###########################################################################
 
-#steam
-#steam-native-runtime
+#arcolinux-meta-steam
 #lutris
 #sauerbraten
 #xonotic
@@ -476,7 +455,6 @@ yay-bin
 #                           ARCOLINUX FOLDER
 ###########################################################################
 
-#arcolinux-arc-themes-git
 #arcolinux-arc-kde
 arcolinux-arc-themes-nico-git
 arcolinux-bin-git
@@ -517,8 +495,8 @@ arcolinux-plank-themes-git
 arcolinux-polybar-git
 arcolinux-qt5-git
 #arcolinux-qt5-plasma-git
-#arcolinux-rofi-git
-#arcolinux-rofi-themes-git
+arcolinux-rofi-git
+arcolinux-rofi-themes-git
 arcolinux-root-git
 arcolinux-slim
 arcolinux-slimlock-themes-git
@@ -616,9 +594,11 @@ arcolinux-xtended-dconf-git
 ###########################################################################
 
 arco-calamares
-#arco-calamares-dev
 #arco-calamares-comp
+#arco-calamares-dev
+#arco-calamares-next
 arcolinux-system-installation-git
+#arcolinux-config-live-session-git
 
 ###########################################################################
 #                                CALAMARES DEPENDENCIES
@@ -631,7 +611,8 @@ kconfig
 ki18n
 kservice
 kwidgetsaddons
-kpmcore
+#kpmcore
+kpmcore-git
 boost-libs
 libpwquality
 squashfs-tools
@@ -665,18 +646,49 @@ arcob-calamares-config-xtended-git
 #arco-calamares-config-git
 #arco-calamares-config-comp-git
 #arco-calamares-config-dev-git
+#arco-calamares-config-next-git
 #arcod-calamares-config-git
 #arcod-calamares-config-comp-git
 #arcod-calamares-config-dev-git
+#arcod-calamares-config-next-git
 
 ###########################################################################
-#                                DESKTOP SPECIFIC
+#                                DISPLAY MANAGER
+###########################################################################
+
+###lightdm
+accountsservice
+lightdm
+
+###########################################################################
+#                         PICOM OR COMPTON
+###########################################################################
+
+picom
+
+###########################################################################
+#                         GENERAL DESKTOP RELATED
+###########################################################################
+
+#mugshot
+#menulibre
+
+###########################################################################
+#                         ARCOLINUX ISO SPECIFIC
+###########################################################################
+
+###########################################################################
+#                                 i3
 ###########################################################################
 
 ###i3wm
 #i3status
 #i3blocks
 #i3-gaps
+
+###########################################################################
+#                               OPENBOX
+###########################################################################
 
 ###openbox
 #gtk2-perl
@@ -686,15 +698,28 @@ obmenu-generator
 #obconf
 #openbox
 perl-linux-desktopfiles
+#tint2
+#xcape
+#openbox-themes-pambudi-git
+
+###lx-applications
+lxappearance
+#lxappearance-gtk3
+#lxappearance-obconf
+#lxappearance-obconf-gtk3
+#lxrandr
 
 ###########################################################################
 #                                XFCE
 ###########################################################################
 
-###xfce4 group content
+### xfce4 group content
+# https://www.archlinux.org/groups/x86_64/xfce4/
 exo
 garcon
 thunar
+thunar-volman
+tumbler
 xfce4-appfinder
 xfce4-panel
 xfce4-power-manager
@@ -706,11 +731,14 @@ xfdesktop
 xfwm4
 #xfwm4-themes
 
-###xfce4-goodies group content
+### xfce4-goodies group content
+# https://www.archlinux.org/groups/x86_64/xfce4-goodies/
 #mousepad
 #orage
 #parole
-#ristretto
+ristretto
+thunar-archive-plugin
+thunar-media-tags-plugin
 #xfburn
 #xfce4-artwork
 #xfce4-battery-plugin
@@ -730,6 +758,7 @@ xfwm4
 #xfce4-notes-plugin
 xfce4-notifyd
 #xfce4-pulseaudio-plugin
+#xfce4-screensaver
 xfce4-screenshooter
 #xfce4-sensors-plugin
 #xfce4-smartbookmark-plugin
@@ -744,7 +773,6 @@ xfce4-taskmanager
 #xfce4-xkb-plugin
 
 #xfce4-panel-profiles
-gtk-engine-murrine
 
 ###########################################################################
 #                                ISO SPECIFIC
