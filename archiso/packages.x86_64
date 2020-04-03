@@ -308,7 +308,7 @@ gksu
 #glances
 gnome-disk-utility
 gnome-keyring
-#gnome-screenshot
+gnome-screenshot
 #gnome-software
 #gnome-software-packagekit-plugin
 gparted
@@ -462,7 +462,7 @@ arcolinux-common-git
 arcolinux-conky-collection-git
 #arcolinux-conky-collection-plasma-git
 arcolinux-cron-git
-#arcolinux-docs-git
+arcolinux-docs-git
 #arcolinux-faces-git
 arcolinux-fonts-git
 arcolinux-geany-git
@@ -724,18 +724,18 @@ lxappearance
 ### xfce4 group content
 # https://www.archlinux.org/groups/x86_64/xfce4/
 exo
-#garcon
+garcon
 thunar
 thunar-volman
 tumbler
 xfce4-appfinder
 xfce4-panel
 xfce4-power-manager
-xfce4-session
+#xfce4-session
 xfce4-settings
 xfce4-terminal
 xfconf
-xfdesktop
+#xfdesktop
 xfwm4
 #xfwm4-themes
 
@@ -750,7 +750,7 @@ thunar-media-tags-plugin
 #xfburn
 #xfce4-artwork
 #xfce4-battery-plugin
-#xfce4-clipman-plugin
+xfce4-clipman-plugin
 #xfce4-cpufreq-plugin
 #xfce4-cpugraph-plugin
 #xfce4-datetime-plugin
@@ -826,6 +826,3 @@ checkupdates-aur
 perl-checkupdates-aur
 xmobar
 xdo
-
-#discord support
-qt5-webchannel
