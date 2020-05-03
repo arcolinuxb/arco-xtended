@@ -695,6 +695,7 @@ volumeicon
 #i3status
 #i3blocks
 #i3-gaps
+#autotiling
 
 ###########################################################################
 #                               OPENBOX
@@ -808,6 +809,7 @@ herbstluftwm
 #desktop specific i3
 i3-gaps
 i3status
+autotiling
 
 #desktop specific openbox
 gtk2-perl
