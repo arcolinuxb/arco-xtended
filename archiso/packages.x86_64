@@ -828,6 +828,10 @@ openbox
 qtile
 python-psutil
 
+#desktop specific spectrwm
+spectrwm
+arcolinux-spectrwm-git
+
 #desktop specific xmonad
 xmonad
 xmonad-contrib
