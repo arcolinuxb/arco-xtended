@@ -555,7 +555,7 @@ arcolinux-openbox-xtended-git
 #arcolinux-plasma-git
 #arcolinux-plasma-nemesis-git
 arcolinux-qtile-git
-#arcolinux-spectrwm-git
+arcolinux-spectrwm-git
 #arcolinux-ukui-git
 arcolinux-xfce-git
 arcolinux-xmonad-polybar-git
@@ -849,7 +849,7 @@ python-psutil
 
 #desktop specific spectrwm
 spectrwm
-arcolinux-spectrwm-git
+
 
 #desktop specific xmonad
 xmonad
