@@ -255,7 +255,7 @@ firefox
 geany
 #gimp
 gmrun
-#gsimplecal
+gsimplecal
 #guvcview
 imagemagick
 #inkscape
@@ -544,8 +544,8 @@ arcolinux-bspwm-git
 #arcolinux-budgie-git
 #arcolinux-cinnamon-git
 #arcolinux-deepin-git
-#arcolinux-dwm-git
-#arcolinux-dwm-slstatus-git
+arcolinux-dwm-git
+arcolinux-dwm-slstatus-git
 #arcolinux-enlightenment-git
 #arcolinux-gnome-git
 arcolinux-herbstluftwm-git
@@ -874,3 +874,8 @@ perl-checkupdates-aur
 xmobar
 xdo
 autorandr
+
+#desktop specific dwm
+#see arcolinux specific packages
+#arcolinux-dwm-git
+#arcolinux-dwm-slstatus-git
