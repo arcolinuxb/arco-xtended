@@ -625,7 +625,7 @@ arcolinux-config-xtended-git
 #                           ARCOLINUX DCONF FOLDER
 ###########################################################################
 
-#arcolinux-dconf-all-desktops-git
+arcolinux-dconf-all-desktops-git
 #arcolinux-awesome-dconf-git
 #arcolinux-bspwm-dconf-git
 #arcolinux-budgie-dconf-git
@@ -651,7 +651,7 @@ arcolinux-config-xtended-git
 #arcolinux-ukui-dconf-git
 #arcolinux-xfce-dconf-git
 #arcolinux-xmonad-dconf-git
-arcolinux-xtended-dconf-git
+#arcolinux-xtended-dconf-git
 
 ###########################################################################
 #                                ARCOLINUX CALAMARES
