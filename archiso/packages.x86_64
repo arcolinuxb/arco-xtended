@@ -512,7 +512,7 @@ arcolinux-alacritty-git
 #arcolinux-arc-kde
 #arcolinux-arc-themes-git
 arcolinux-bin-git
-#arcolinux-candy-beauty-git
+arcolinux-candy-beauty-git
 arcolinux-common-git
 arcolinux-conky-collection-git
 #arcolinux-conky-collection-plasma-git
@@ -597,7 +597,7 @@ arcolinux-bspwm-git
 #arcolinux-deepin-git
 arcolinux-dwm-git
 arcolinux-dwm-slstatus-git
-#arcolinux-dwm-st-git
+arcolinux-dwm-st-git
 #arcolinux-enlightenment-git
 #arcolinux-fvwm3-git
 #arcolinux-gnome-git
@@ -605,7 +605,7 @@ arcolinux-herbstluftwm-git
 arcolinux-i3wm-git
 #arcolinux-icewm-git
 #arcolinux-jwm-git
-#arcolinux-leftwm-git
+arcolinux-leftwm-git
 #arcolinux-kodi-git
 #arcolinux-lxqt-git
 #arcolinux-mate-git
@@ -958,8 +958,14 @@ xmobar
 xdo
 autorandr
 
-#desktop specific dwm
-#see arcolinux specific packages
-#arcolinux-dwm-git
-#arcolinux-dwm-slstatus-git
-#arcolinux-dwm-st-git
+
+#desktop specific leftwm
+leftwm
+leftwm-theme-git
+nerd-fonts-source-code-pro
+lolcat
+ufetch-arco-git
+arcolinux-wallpapers-candy-git
+
+#desktop specific dusk
+arcolinux-dusk-git
