@@ -29,7 +29,7 @@ echo
 	desktop="xtended"
 	dmDesktop="openbox"
 
-	arcolinuxVersion='v22.03.02'
+	arcolinuxVersion='v22.03.03'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
