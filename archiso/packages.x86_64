@@ -988,3 +988,8 @@ dash
 #desktop specific worm
 worm-dev-git
 arcolinux-worm-git
+
+#desktop specific dk
+dk
+arcolinux-dk-git
+ttf-sourcecodepro-nerd
