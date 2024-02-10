@@ -993,6 +993,7 @@ arcolinux-dusk-git
 #desktop specific chadwm
 arcolinux-chadwm-git
 arcolinux-paleofetch-git
+arcolinux-chadwm-pacman-hook-git
 eww
 dash
 
