@@ -93,7 +93,7 @@ reflector
 reiserfsprogs
 rp-pppoe
 rsync
-rxvt-unicode-terminfo
+##rxvt-unicode-terminfo
 screen
 sdparm
 sg3_utils
@@ -303,14 +303,14 @@ ttf-ubuntu-font-family
 ###themes
 #adapta-gtk-theme
 arc-gtk-theme
-arc-darkest-theme-git
+#arc-darkest-theme-git
 kvantum-qt5-git
 #kvantum-qt6-git
 openbox-arc-git
 
 ###utilities
 arandr
-asciinema
+#asciinema
 bash-completion
 #baobab
 bat
@@ -370,10 +370,10 @@ qt5ct
 #powertop
 ripgrep
 rofi
-rxvt-unicode
+#rxvt-unicode
 #simple-scan
 #shotwell
-speedtest-cli-git
+#speedtest-cli-git
 #telegram-desktop
 #timeshift
 tlp
@@ -462,7 +462,7 @@ paru-bin
 #peek
 #pulseaudio-equalizer-ladspa
 python-pyparted
-#python-pywal
+python-pywal
 rate-mirrors-bin
 #scour
 #screenkey-git
@@ -470,9 +470,9 @@ rate-mirrors-bin
 #the_platinum_searcher-bin
 the_silver_searcher
 #trizen
-urxvt-fullscreen
-urxvt-perls
-urxvt-resize-font-git
+#urxvt-fullscreen
+#urxvt-perls
+#urxvt-resize-font-git
 #wttr
 yad
 #yakuake
@@ -493,7 +493,7 @@ yay-bin
 arcolinux-alacritty-git
 arcolinux-arc-kde
 arcolinux-bin-git
-#arcolinux-btop-git
+arcolinux-btop-git
 a-candy-beauty-icon-theme-git
 arcolinux-common-git
 arcolinux-conky-collection-git
@@ -600,7 +600,7 @@ arcolinux-leftwm-git
 #arcolinux-lxqt-git
 #arcolinux-mate-git
 #arcolinux-newm-git
-#arcolinux-nimdow-git
+arcolinux-nimdow-git
 #arcolinux-openbox-git
 #arcolinux-openboxb-git
 arcolinux-openbox-xtended-git
@@ -997,9 +997,6 @@ arcolinux-chadwm-pacman-hook-git
 eww
 dash
 
-#desktop specific berry not a TWM
-#berry-dev-git
-#arcolinux-berry-git
 
 #desktop specific worm
 worm-dev-git
@@ -1009,6 +1006,12 @@ arcolinux-worm-git
 dk
 arcolinux-dk-git
 arcolinux-powermenu-git
+
+#desktop specific nimdow
+btop
+nim
+nimdow-bin
+ttf-jetbrains-mono-nerd
 
 ## chaotics-aur
 #flat-remix
